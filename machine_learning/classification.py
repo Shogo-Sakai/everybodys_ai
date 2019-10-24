@@ -147,6 +147,5 @@ plt.scatter(position_kanagawa_learning[0], position_kanagawa_learning[1], c="blu
 plt.scatter(position_tokyo_learned[0], position_tokyo_learned[1], c="red", label="Tokyo", marker="o")
 plt.scatter(position_kanagawa_learned[0], position_kanagawa_learned[1], c="blue", label="Kanagawa", marker="o")
 
-
 plt.legend()
 plt.show()
